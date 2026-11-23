@@ -1,0 +1,12 @@
+{
+  "name": "DEBRIS AI",
+  "short_name": "DEBRIS",
+  "description": "Your AI. Your rules. Your world.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#090a10",
+  "theme_color": "#090a10",
+  "icons": [
+    { "src": "/debris.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
